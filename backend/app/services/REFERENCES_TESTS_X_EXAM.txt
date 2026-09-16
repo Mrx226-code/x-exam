@@ -1,0 +1,24 @@
+========================================
+REFERENCES TESTS — X_EXAM
+========================================
+
+
+========================================
+UTILISATEUR DE TEST
+========================================
+
+Nom :
+Eleve Test
+
+Email :
+nouvel.eleve.test@xexam.com
+
+Mot de passe :
+[Test1234]
+
+ID utilisateur :
+[Nouvel Eleve Test]
+
+Token JWT :
+["access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJub3V2ZWwuZWxldmUudGVzdEB4ZXhhbS5jb20iLCJyb2xlIjoiZWxldmUiLCJleHAiOjE3ODgxODgzNTQsInR5cGUiOiJhY2Nlc3MifQ.RMCQdoteNgA7LBoC9XoYasqrvUs_4tzCpESQQBIClQI",
+    "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJub3V2ZWwuZWxldmUudGVzdEB4ZXhhbS5jb20iLCJyb2xlIjoiZWxldmUiLCJ0eXBlIjoicmVmcmVzaCJ9.Qy9QmoFnKHYpkl4mOGZ7W5kBwKky8wt-oDZB52YrymU"]
